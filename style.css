@@ -70,7 +70,54 @@ body{
     color: #8e8e88;
     text-decoration: none;
     padding: 5px;
+  
+}
+.box-formulario{
+    background: white;
+    border: 1px solid #dbdbdb;
+    padding: 25px;
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
     
+
+}
+.logo-instagram{
+    width: 175px;
+    padding: 25px;
+}
+
+.nav-right input{
+    padding: 5px 15px;
+    font-size: 12px;
+    min-width: 200px;
+    margin-bottom: 5px;
+    background: #fafafa;
+    border: 1px solid #dbdbdb;
+    color: #8e8e8e;
+    border-radius: 5px;
     
+}
+.nav-right .botao-entrar{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    background-color: #4f7bff;
+    min-width: 233px;
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
     
+}
+.nav-right P{
+    color: #8e8e88;
+    font-size: 11PX;
+    font-weight: 700;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.nav-right .entrar{
+color: #374c89;
+fon
 }
